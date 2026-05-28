@@ -1,0 +1,1 @@
+from .quant import dns_main, dns_func, dns_test
